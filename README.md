@@ -45,6 +45,20 @@ Developed an end-to-end mortgage analytics project using Freddie Mac loan-level 
 
 **[View Project](https://github.com/minhkhanh-trinh3196/mortgage-refinancing-exposure-portfolio)**
 
+### 3. Australian Corporate Insolvency Analysis
+
+**Python | Pandas | NumPy | Matplotlib | Databricks | ASIC**
+
+Developed an end-to-end financial analytics project using Australian corporate insolvency data to identify industry distress signals and support credit risk monitoring.
+
+- Analysed 58,115 insolvency appointment records across 64 reporting months (July 2021-October 2026).
+- Reconciled monthly appointment counts against official ASIC statistics with no discrepancies.
+- Identified historical and emerging distress signals across 19 classified industries.
+- Investigated concentrated Construction appointments, demonstrating a shift in year-over-year growth from +12.89% to -5.14% under an illustrative sensitivity scenario.
+- Developed an integrated industry monitoring framework combining historical and recent evidence to prioritise further investigation.
+
+[View Project](https://github.com/minhkhanh-trinh3196/australian-corporate-insolvency-analysis)
+
 ## Current Focus
 
 - Strengthening my Python and SQL skills for financial data analytics.
